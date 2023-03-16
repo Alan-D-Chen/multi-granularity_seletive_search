@@ -8,8 +8,22 @@ Given the deepening network hierarchy of deep learning, improving the accuracy o
 ### Keywords:
 Multi-granularity · Object detection · Watershed algorithm · Perceptual hashing
 
+* Multi‑Granularity Selective Search Algorithm
+
+* Coarse‑grained images for outline feature
+
+![watershed algorithm](https://github.com/Alan-D-Chen/multi-granularity_seletive_search/blob/main/pics/%E6%88%AA%E5%B1%8F2023-03-16%2010.58.16.png)
+
 ![multi-granularity images](https://github.com/Alan-D-Chen/multi-granularity_seletive_search/blob/main/pics/%E6%88%AA%E5%B1%8F2023-03-16%2010.55.56.png)
+
+* Color similarity of images
+
+* Texture similarity of images
+
+* Experiments and analysis
 
 ![conclusion show](https://github.com/Alan-D-Chen/multi-granularity_seletive_search/blob/main/pics/%E6%88%AA%E5%B1%8F2023-03-16%2010.56.59.png)
 
-![watershed algorithm](https://github.com/Alan-D-Chen/multi-granularity_seletive_search/blob/main/pics/%E6%88%AA%E5%B1%8F2023-03-16%2010.58.16.png)
+
+### Conclusion
+This paper focuses on the acquisition method of candidate regions at the basic level, and creatively enriches the acquisition method of candidate region for object detection, MGSS, which improves 9.55% and 2.05% compared with the results of SS “Fast” and SS “Quality”, respectively. We also verify that mAP values of R-CNN and Fast R-CNN algorithms improve by 1.5 and 0.8 %, respectively, compared with the traditional SS algorithm. The MGSS is more adept at identifying classes with complex backgrounds or hierarchical complexity compared to the RPN method.
