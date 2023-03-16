@@ -1,4 +1,4 @@
-# [Candidate region acquisition optimization algorithm based on multi-granularity data enhancement](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=51yJbQ0AAAAJ&citation_for_view=51yJbQ0AAAAJ:IjCSPb-OGe4C).
+# [Candidate region acquisition optimization algorithm based on multi-granularity data enhancement](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=51yJbQ0AAAAJ&citation_for_view=51yJbQ0AAAAJ:IjCSPb-OGe4C)
 
 ### multi-granularity_seletive_search
 
