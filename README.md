@@ -1,4 +1,14 @@
-# multi-granularity_seletive_search
+# [Candidate region acquisition optimization algorithm based on multi-granularity data enhancement](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=51yJbQ0AAAAJ&citation_for_view=51yJbQ0AAAAJ:IjCSPb-OGe4C).
+
+### multi-granularity_seletive_search
+
+writen by · [Chen Dong](https://github.com/Alan-D-Chen)
+ · Miao Duoqian
+ · Cairong Zhao
+ · Hailong Zhou
+Received: 25 May 2021 / Accepted: 6 December 2021 / Published online: 27 January 2022
+
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2021
 
 ## This is the code base and explanation of the paper [Candidate region acquisition optimization algorithm based on multi-granularity data enhancement](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=51yJbQ0AAAAJ&citation_for_view=51yJbQ0AAAAJ:IjCSPb-OGe4C).
 
