@@ -2,7 +2,7 @@
 
 ### multi-granularity_seletive_search
 
-writen by · [Chen Dong](https://github.com/Alan-D-Chen)
+written by · [Chen Dong](https://github.com/Alan-D-Chen)
  · Miao Duoqian
  · Cairong Zhao
  · Hailong Zhou
