@@ -1,0 +1,12 @@
+## VOC2012_images_Sturding_Recording ##
+
+E:/dataset_1/VOCtrainval_11-May-2012/VOCdevkit/VOC2012/images/diningtable_train
+
+For this picture 48, Max result of IOU:0.5180949456959743
+For this picture 48, Avg result of IOU:0.07139390619608985
+For this picture 48, Max (ground truth) result of IOU:0.9746929110552021
+For this picture 48, Avg (ground truth) result of IOU:0.4026956608833503
+For these pictures , Max result of IOU:0.5180949456959743
+For these pictures , Avg result of IOU:0.07139390619608985
+For these pictures , Max (ground truth) result of IOU:0.9746929110552021
+For these pictures , Avg (ground truth) result of IOU:0.4026956608833503

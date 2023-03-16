@@ -1,0 +1,12 @@
+## VOC2012_images_Sturding_Recording ##
+
+E:/dataset_1/VOCtrainval_11-May-2012/VOCdevkit/VOC2012/images/bus_train
+
+For this picture 41, Max result of IOU:0.4740919305413687
+For this picture 41, Avg result of IOU:0.07746341590746558
+For this picture 41, Max (ground truth) result of IOU:0.9906985674513862
+For this picture 41, Avg (ground truth) result of IOU:0.3353898859088822
+For these pictures , Max result of IOU:0.4740919305413687
+For these pictures , Avg result of IOU:0.07746341590746558
+For these pictures , Max (ground truth) result of IOU:0.9906985674513862
+For these pictures , Avg (ground truth) result of IOU:0.3353898859088822

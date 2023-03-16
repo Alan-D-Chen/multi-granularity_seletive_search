@@ -1,0 +1,12 @@
+## VOC2012_images_Sturding_Recording ##
+
+E:/dataset_1/VOCtrainval_11-May-2012/VOCdevkit/VOC2012/images/sofa_train
+
+For this picture 58, Max result of IOU:0.752542372881356
+For this picture 58, Avg result of IOU:0.05513843384735386
+For this picture 58, Max (ground truth) result of IOU:0.9906985674513862
+For this picture 58, Avg (ground truth) result of IOU:0.5536345118640718
+For these pictures , Max result of IOU:0.752542372881356
+For these pictures , Avg result of IOU:0.05513843384735386
+For these pictures , Max (ground truth) result of IOU:0.9906985674513862
+For these pictures , Avg (ground truth) result of IOU:0.5536345118640718

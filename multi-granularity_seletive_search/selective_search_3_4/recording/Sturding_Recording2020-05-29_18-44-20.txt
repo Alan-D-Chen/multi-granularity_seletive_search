@@ -1,0 +1,12 @@
+## VOC2012_images_Sturding_Recording ##
+
+E:/dataset_1/VOCtrainval_11-May-2012/VOCdevkit/VOC2012/JPEGImages
+
+For this picture 10, Max result of IOU:0.7785221126079245
+For this picture 10, Avg result of IOU:0.23598756820253128
+For this picture 10, Max (ground truth) result of IOU:0.861926091825308
+For this picture 10, Avg (ground truth) result of IOU:0.4258572845445164
+For these pictures , Max result of IOU:0.7785221126079245
+For these pictures , Avg result of IOU:0.23598756820253128
+For these pictures , Max (ground truth) result of IOU:0.861926091825308
+For these pictures , Avg (ground truth) result of IOU:0.4258572845445164

@@ -1,0 +1,12 @@
+## VOC2012_images_Sturding_Recording ##
+
+E:/dataset_1/VOCtrainval_11-May-2012/VOCdevkit/VOC2012/images/motorbike_train
+
+For this picture 96, Max result of IOU:0.42439484438855707
+For this picture 96, Avg result of IOU:0.12349347254521854
+For this picture 96, Max (ground truth) result of IOU:0.9920239361914895
+For this picture 96, Avg (ground truth) result of IOU:0.4302619213985385
+For these pictures , Max result of IOU:0.42439484438855707
+For these pictures , Avg result of IOU:0.12349347254521854
+For these pictures , Max (ground truth) result of IOU:0.9920239361914895
+For these pictures , Avg (ground truth) result of IOU:0.4302619213985385

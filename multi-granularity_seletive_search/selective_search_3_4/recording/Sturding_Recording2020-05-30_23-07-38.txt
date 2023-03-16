@@ -1,0 +1,12 @@
+## VOC2012_images_Sturding_Recording ##
+
+E:/dataset_1/VOCtrainval_11-May-2012/VOCdevkit/VOC2012/images/pottedplant_train
+
+For this picture 77, Max result of IOU:0.27158774373259054
+For this picture 77, Avg result of IOU:0.015382186122498542
+For this picture 77, Max (ground truth) result of IOU:0.976207976044644
+For this picture 77, Avg (ground truth) result of IOU:0.3667620121609053
+For these pictures , Max result of IOU:0.27158774373259054
+For these pictures , Avg result of IOU:0.015382186122498542
+For these pictures , Max (ground truth) result of IOU:0.976207976044644
+For these pictures , Avg (ground truth) result of IOU:0.3667620121609053

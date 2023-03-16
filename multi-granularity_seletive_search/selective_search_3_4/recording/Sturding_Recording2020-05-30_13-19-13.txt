@@ -1,0 +1,12 @@
+## VOC2012_images_Sturding_Recording ##
+
+E:/dataset_1/VOCtrainval_11-May-2012/VOCdevkit/VOC2012/images/bicycle_train
+
+For this picture 79, Max result of IOU:0.7395835837761162
+For this picture 79, Avg result of IOU:0.078659243834441
+For this picture 79, Max (ground truth) result of IOU:0.9909669971341482
+For this picture 79, Avg (ground truth) result of IOU:0.4188137507052178
+For these pictures , Max result of IOU:0.7395835837761162
+For these pictures , Avg result of IOU:0.078659243834441
+For these pictures , Max (ground truth) result of IOU:0.9909669971341482
+For these pictures , Avg (ground truth) result of IOU:0.4188137507052178
